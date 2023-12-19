@@ -1,4 +1,7 @@
 # Grid Analyser
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/guru-narayana/aliengo_navigation)
+[![Author](https://img.shields.io/badge/Author-Nara%20Guru%20Narayanaswamy-blue)](https://www.linkedin.com/in/nara-guru-narayanaswamy-658a811b0/)
+
 An image processing based
 software for surface strain analysis
 in sheet metal forming.
